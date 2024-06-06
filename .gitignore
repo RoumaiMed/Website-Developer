@@ -1,0 +1,7 @@
+_build
+_templates/
+!config/_templates/
+_static/
+!config/_static/
+conf.py
+!config/conf.py
